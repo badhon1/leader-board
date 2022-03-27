@@ -1,0 +1,22 @@
+body{
+    background-color: #F3F1FF;
+}
+main{
+    width: 870px;
+   
+}
+.top-palyer{
+    background-color: #FFFFFF;
+}
+.navbar img{
+    width: 40px;
+}
+.nav-link{
+    margin-right: 30px;
+}
+.palyer img{
+ width: 56px;
+}
+.palyer{
+    padding-bottom: 40px;
+}
